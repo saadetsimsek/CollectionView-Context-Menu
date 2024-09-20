@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6A78F4972C9DFA070021B08C /* ImageCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A78F4962C9DFA070021B08C /* ImageCollectionViewCell.swift */; };
 		6A9867DA2C9376F300993109 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A9867D92C9376F300993109 /* AppDelegate.swift */; };
 		6A9867DC2C9376F300993109 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A9867DB2C9376F300993109 /* SceneDelegate.swift */; };
 		6A9867DE2C9376F300993109 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A9867DD2C9376F300993109 /* ViewController.swift */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		6A78F4962C9DFA070021B08C /* ImageCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageCollectionViewCell.swift; sourceTree = "<group>"; };
 		6A9867D62C9376F300993109 /* CollectionViewContextMenu.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CollectionViewContextMenu.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6A9867D92C9376F300993109 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		6A9867DB2C9376F300993109 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -102,6 +104,7 @@
 				6A9867D92C9376F300993109 /* AppDelegate.swift */,
 				6A9867DB2C9376F300993109 /* SceneDelegate.swift */,
 				6A9867DD2C9376F300993109 /* ViewController.swift */,
+				6A78F4962C9DFA070021B08C /* ImageCollectionViewCell.swift */,
 				6A9867DF2C9376F300993109 /* Main.storyboard */,
 				6A9867E22C9376F400993109 /* Assets.xcassets */,
 				6A9867E42C9376F400993109 /* LaunchScreen.storyboard */,
@@ -260,6 +263,7 @@
 			files = (
 				6A9867DE2C9376F300993109 /* ViewController.swift in Sources */,
 				6A9867DA2C9376F300993109 /* AppDelegate.swift in Sources */,
+				6A78F4972C9DFA070021B08C /* ImageCollectionViewCell.swift in Sources */,
 				6A9867DC2C9376F300993109 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
